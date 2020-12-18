@@ -1,0 +1,2 @@
+# learnWithScott
+Basic git concepts
